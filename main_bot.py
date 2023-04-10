@@ -16,11 +16,11 @@ antiSpam = 15;
 adminACC = 6074006656
 
 #PRICE
-b148 = 3000
-b086 = 1500
+b148 = 2000
+b086 = 500
 b046 = 1500
-b003 = 5000
-pechat = 5000
+b003 = 2000
+pechat = 3000
 
 
 @bot.message_handler(commands=['start'])
